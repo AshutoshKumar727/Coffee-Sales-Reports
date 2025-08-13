@@ -1,4 +1,7 @@
 # Coffee-Sales-Reports
+
+
+
 🚀 Coffee Sales Performance Dashboard – Power BI Project ☕📊
 Excited to share my latest Power BI dashboard that analyzes coffee sales across multiple cities in India.
  This dashboard brings together key business insights with an engaging coffee-themed design.
@@ -20,3 +23,8 @@ Power Query (Data Cleaning & Transformation)
 I would love to hear your feedback and suggestions.
 Would you like to see a short breakdown video of how this dashboard works? 🎥
 hashtag#PowerBI hashtag#DataAnalytics hashtag#DashboardDesign hashtag#BusinessIntelligence hashtag#CoffeeSales hashtag#DataVisualization hashtag#DataStorytelling hashtag#PowerQuery hashtag#DAX hashtag#Analytics hashtag#AshutoshKumar
+
+
+<img src="https://github.com/AshutoshKumar727/Coffee-Sales-Reports/blob/e666400b72ef8793072fff0baf8307d73804331b/Coffee%201.png" alt="Image Description" width="600">
+<Br>
+<img src="https://github.com/AshutoshKumar727/Coffee-Sales-Reports/blob/e666400b72ef8793072fff0baf8307d73804331b/Coffee.png" alt="Image Description" width="600">
